@@ -24,7 +24,7 @@
 ├── CHANGELOG.md
 └── README.md
 
-```bash
+
 🚀 Modules Fixed & Enhanced
 Module	Fixes Implemented
 Header/Footer	- Hover color changed to #E91E63
